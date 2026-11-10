@@ -1,4 +1,3 @@
-
 const STATUS = "all systems nominal";
 console.log(STATUS);
 
